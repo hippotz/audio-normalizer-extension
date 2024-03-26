@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Normalizer",
+  "description": "Normalizer",
+  "version": "1.0",
+  "action": {
+ },
+  "permissions": ["scripting", "activeTab"],
+  "background": {
+    "service_worker": "service_worker.js"
+  }
+}
