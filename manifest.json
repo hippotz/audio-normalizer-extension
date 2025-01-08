@@ -7,6 +7,6 @@
  },
   "permissions": ["scripting", "activeTab"],
   "background": {
-    "service_worker": "service_worker.js"
+    "scripts": ["service_worker.js"]
   }
 }
